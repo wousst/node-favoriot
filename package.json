@@ -1,0 +1,11 @@
+{
+  "name": "node-favoriot",
+  "version": "0.0.1",
+  "description": "A simple NodeJS front-end implementation with FAVORIOT RESTful APIs.",
+  "main": "serv.js",
+  "dependencies": {
+    "express": "^4.16.4"
+  },
+  "author": "hadrihilmi@gmail.com",
+  "license": "ISC"
+}
